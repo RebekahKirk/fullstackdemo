@@ -1,0 +1,6 @@
+gettext
+libidn2
+libunistring
+mongodb-community
+openssl@1.1
+wget
